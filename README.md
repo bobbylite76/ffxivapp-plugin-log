@@ -12,3 +12,8 @@ To use with FFXIVAPP (http://ffxiv-app.com)
 The structure of the directories can be seen here:
 
 http://github.com/icehunter/ffxivapp
+
+## Short Tutorial (Plugin Installation)
+<a href="http://youtu.be/QEHYKjp4DjY" target="_blank">
+    <img src="http://i1.ytimg.com/vi/QEHYKjp4DjY/mqdefault.jpg" />
+</a>
